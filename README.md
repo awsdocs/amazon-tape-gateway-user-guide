@@ -1,11 +1,8 @@
-## My Project
+## Amazon Tape Gateway User Guide
 
-TODO: Fill this README out!
+This guide describes Amazon Tape Gateway concepts and provides instructions on using the various features with both the console and the API.
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+You can navigate the guide starting from the [index](doc_source/index.md).
 
 ## Security
 
